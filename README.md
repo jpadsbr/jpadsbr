@@ -3,7 +3,7 @@
 - 😄 Pronomes: ele/dele
 - 🔭 Desenvolvedor Fullstack (Javascript e Python)
 - 🌱 Me aprofundando em ReactJS
-- ⚡ Minha gata se chama Calíope
+- ⚡ Meus gatos se chamam Calíope, Thor, Simba e Pandora
 
 ##
 
