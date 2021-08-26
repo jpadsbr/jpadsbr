@@ -1,9 +1,9 @@
-## Olá, seja bem-vinde ao meu perfil! 👋
+## Hello, welcome to my profile! 👋
 
-- 😄 Pronomes: ele/dele
-- 🔭 Desenvolvedor Fullstack (Javascript e Python)
-- 🌱 Me aprofundando em ReactJS
-- ⚡ Meus gatos se chamam Calíope, Thor, Simba e Pandora
+- 😄 Pronouns: he/him
+- 🔭 Fullstack Developer (Javascript e Python)
+- 🌱 Going deep in ReactJS
+- ⚡ My cats are Calíope, Thor, Simba and Pandora
 
 ##
 
