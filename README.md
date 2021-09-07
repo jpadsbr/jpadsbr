@@ -1,7 +1,7 @@
 ## Hello, welcome to my profile! 👋
 
 - 😄 Pronouns: he/him
-- 🔭 Fullstack Developer (Javascript e Python)
+- 🔭 Fullstack Developer (Javascript and Python)
 - 🌱 Going deep in ReactJS
 - ⚡ My cats are Calíope, Thor, Simba and Pandora
 
