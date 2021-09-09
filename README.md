@@ -5,10 +5,9 @@
 - 🌱 Going deep in ReactJS
 - ⚡ My cats are Calíope, Thor, Simba and Pandora
 
-## Total visitors :detective: <br>
- <p align="center"> 
-   <img align="center" src="https://profile-counter.glitch.me/jpadsbr/count.svg" />
- </p>
+ <p> Total visitors :detective::  <img align='center' src="https://profile-counter.glitch.me/jpadsbr/count.svg" /></p>
+ 
+ <br>
 
 <div>
   <a href="https://github.com/jpadsbr">
