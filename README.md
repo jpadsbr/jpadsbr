@@ -5,7 +5,10 @@
 - 🌱 Going deep in ReactJS
 - ⚡ My cats are Calíope, Thor, Simba and Pandora
 
-##
+## Total visitors :detective: <br>
+ <p align="center"> 
+   <img align="center" src="https://profile-counter.glitch.me/jpadsbr/count.svg" />
+ </p>
 
 <div>
   <a href="https://github.com/jpadsbr">
@@ -31,6 +34,8 @@
   <a href="https://www.twitch.tv/catupabr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/catupa/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/moonana/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  
+   
   
  
   ![Snake animation](https://github.com/jpadsbr/jpadsbr/blob/output/github-contribution-grid-snake.svg)
