@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him
 - 🔭 Fullstack Developer (Javascript and Python)
-- 🌱 Going deep in ReactJS
+- 🌱 Going deep in ReactJS and Go
 - ⚡ My cats are Calíope, Thor, Simba and Pandora
 
  <p> Total visitors :detective::  <img align='center' src="https://profile-counter.glitch.me/jpadsbr/count.svg" /></p>
