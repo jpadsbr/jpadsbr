@@ -1,9 +1,9 @@
 ## Hello, welcome to my profile! 👋
 
 - 😄 Pronouns: he/him
-- 🔭 Fullstack Developer (Javascript and Python)
+- 🔭 Fullstack Developer (Javascript, Python, Go)
 - 🌱 Going deep in ReactJS and Go
-- ⚡ My cats are Calíope, Thor, Simba and Pandora
+- ⚡ My cats are Calíope, Orfeu, Thor, Simba and Pandora
 
  <p> Total visitors :detective::  <img align='center' src="https://profile-counter.glitch.me/jpadsbr/count.svg" /></p>
  
